@@ -41,8 +41,8 @@ The project visualizes tasks, start and end dates, and duration using a custom G
 | Conduit laying                   | 2        | 15-05-2021    | 16-05-2021     |
 | Slab RCC                         | 1        | 17-05-2021    | 17-05-2021     |
 
-## 🖥️ Preview
-![Gantt Chart Preview](./gantt chart.png)
+## 💻 Preview
+![Gantt Chart Preview](./gantt_chart.png)
 
 ## 📈 Learning Outcomes
 - Building Gantt charts using Excel.
