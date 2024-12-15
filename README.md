@@ -3,7 +3,7 @@
 This repository contains a **Construction Schedule** project created using Microsoft Excel. The project demonstrates the scheduling of various construction activities over a specified timeline using a Gantt chart.
 
 ## 🚀 Overview
-The project visualizes tasks, start and end dates, and duration using a custom Gantt chart built in Excel. The schedule outlines a step-by-step construction process for **Project-ABC** and highlights task dependencies, timelines, and resource planning.
+The project visualizes tasks, start and end dates, and duration using a custom Gantt chart built in Excel. The schedule outlines a step-by-step construction process and highlights task dependencies, timelines, and resource planning.
 
 ## 📝 Key Features
 1. **Gantt Chart Visualization**
