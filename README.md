@@ -42,7 +42,7 @@ The project visualizes tasks, start and end dates, and duration using a custom G
 | Slab RCC                         | 1        | 17-05-2021    | 17-05-2021     |
 
 ## 🖥️ Preview
-![Gantt Chart Preview](./Screenshot.png)
+![Gantt Chart Preview](./gantt chart.png)
 
 ## 📈 Learning Outcomes
 - Building Gantt charts using Excel.
